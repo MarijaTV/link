@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <!-- <script src="./render.js"></script> -->
 </head>
 
 
@@ -33,12 +34,11 @@ echo "<script>";
     <textarea id="w3review" name="query" rows="4" cols="50"  ></textarea>
         <button type="submit">siusti uzklausa</button>
     </form>
-    
-
-
     <script>
-        console.log(data);
+    console.log(data);
     </script>
+
+    <script>src="./render.js"</script>
 </body>
 
 </html>
